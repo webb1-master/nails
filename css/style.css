@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: gray;
+}
+
+.wrapper {
+  width: 310px;
+  background: white;
+  margin: 0 auto;
+}
+
+/* FYLL PÅ MED DIN CSS HÄR UNDER */
+
