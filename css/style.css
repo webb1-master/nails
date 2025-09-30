@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 
 * {
   box-sizing: border-box;
@@ -6,7 +6,6 @@
 
 img {
   max-width: 100%;
-  max-height: 100%;
   display: block;
 }
 
@@ -23,4 +22,3 @@ body {
 }
 
 /* FYLL PÅ MED DIN CSS HÄR UNDER */
-
